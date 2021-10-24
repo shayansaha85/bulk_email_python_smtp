@@ -13,4 +13,4 @@ Note:
 
 
 
-twitter/github >> @shayansaha85
+twitter/github > @shayansaha85
